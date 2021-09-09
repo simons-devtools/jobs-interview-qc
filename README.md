@@ -1,2 +1,2 @@
-# better enterview question part-1
+# Developer enterview question part-1
 
